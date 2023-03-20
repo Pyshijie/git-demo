@@ -1,0 +1,21 @@
+初始化git  git init
+配置用户签名 git config --global user.name hackery
+配置用户邮箱签名 git config --global user.email hackery@itshijie.com
+添加到暂存区 git add [文件名]  / git add .
+提交到本地仓库 git commit -m "修改版本信息" [文件名]
+查看本地仓库状态 git status
+查看git大概日志 git reflog
+查看git详细日志 git log
+git版本穿梭 git reset --hard [版本号]
+查看git 分支信息 git branch -v
+创建分支 git branch [分支名]
+切换分支 git checkout [分支名]
+合并分支 git merge [分支名] 合并指定分支到当前分支
+
+合并冲突情况下 : 需要手动进行文件的合并
+会进入正在合并状态，此时合并后的文件在工作区
+也需要git add 添加到暂存区
+此时要注意 git commit -m "版本信息" 即可
+不需要进行指定文件名了
+
+之后就会合并成功
