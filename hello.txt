@@ -15,4 +15,4 @@ hello atshijie! hello git!
 hello atshijie! hello git!
 hello atshijie! hello git!
 hello atshijie! hello git!
-hello atshijie! hello git!
+hello atshijie! hello git! hot-fix test
