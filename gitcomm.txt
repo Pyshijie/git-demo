@@ -21,3 +21,4 @@ git版本穿梭 git reset --hard [版本号]
 之后就会合并成功
 
 测试合并冲突:  sssssssssssss by master
+测试 合并冲突：mmmmmmmmmmmm by hot-fix
