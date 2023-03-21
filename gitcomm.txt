@@ -19,3 +19,5 @@ git版本穿梭 git reset --hard [版本号]
 不需要进行指定文件名了
 
 之后就会合并成功
+
+测试 合并冲突：mmmmmmmmmmmm by hot-fix
